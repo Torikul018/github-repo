@@ -1,3 +1,3 @@
 # github-repo
-Practicing And Learning GIthub
-I am adding something on this repo that's why I can understand that I use it only for my educational and learning purpose in the future
+Testing purpose
+Just to learn and explore the github and git. Added some files and will add more in the future to explore this platform.
